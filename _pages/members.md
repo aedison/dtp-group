@@ -29,6 +29,7 @@ author_profile: false
 | Cong Shen | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/1945377?ui-citation-summary=true)|
 | Sai Sasank Chava | Ph.D student         | [inSPIRE](https://inspirehep.net/authors/2776660)|
 | Nia Robles | Undergraduate student ||
+| Eliseu A.~K.~Filho | Undergraduate student ||
 
 
 ## Previous Group Members
