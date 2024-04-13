@@ -45,6 +45,10 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Shruti Paranjape | UC Davis | 14 - 20 April 20204 | [inSPIRE](https://inspirehep.net/authors/1487675?ui-citation-summary=true) |
+| Raju Venugopalan | BNL and Stony Brook U. | 29 March 2024 | [BNL](https://www.bnl.gov/staff/Rvenugopalan) |
+| Austin Joyce | University of Chicago | 10 Nov 2023 | [inSPIRE](https://inspirehep.net/authors/1078196?ui-citation-summary=true) |
+| Hayden Lee | University of Chicago | 3 Nov 2023 | [inSPIRE](https://inspirehep.net/authors/1351398?ui-citation-summary=true) |
 | Austin Joyce | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1078196?ui-citation-summary=true) |
 | Hayden Lee | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1351398?ui-citation-summary=true) |
 | Akhil Premkumar | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1776876?ui-citation-summary=true) |
