@@ -20,10 +20,10 @@ author_profile: false
 | ----------------------- | --------------------- | --------------------------------------------------------  |
 | John Joseph M. Carrasco | [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) | [http://prettyquestions.com](http://prettyquestions.com) |
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
-| Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
+| Alex Edison          | Postdoc               | [aedison.gitlab.io](https://aedison.gitlab.io) |
 | Yanfeng Hang         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1747508) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
-| Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [Personal Website](https://nicpavao.com/) |
+| Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
 | Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
 | Kezhu Guo | Affiliate Ph.D student, as [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
 | Cong Shen | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/1945377?ui-citation-summary=true)|
