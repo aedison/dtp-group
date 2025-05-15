@@ -35,11 +35,11 @@ author_profile: false
 | ----------------------- | --------------------- | --------------------------------------------------------  |
 | Suna Zekioglu | Ph.D student  Awarded 2024        | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student, Awarded 2024            | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
-| James Mangan         | Postdoc, NU Member '21-'24   | [Asst. Prof](https://www.coloradomesa.edu/directory/physical-environmental-sciences/james-mangan.html) |
+| James Mangan         | Postdoc, NU Member '21-'24   | [Asst. Prof Colorado Mesa U.](https://www.coloradomesa.edu/directory/physical-environmental-sciences/james-mangan.html) |
 | Bogdan Stoica        | Postdoc, NU Member '20-'23  | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
 | Matthew Lewandowski | Postdoc, NU Member '19-'22               | [Scientific Staff CERN](https://theory.cern/roster/lewandowski-matthew) |
 | Ingrid Vazquez-Holm | Ph.D student,  Awarded 2021         |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
-| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Assoc. Prof](https://bimsa.net/people/rodina/) |
+| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Assoc. Prof BIMSA](https://bimsa.net/people/rodina/) |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
 ## Recent/Upcoming NU-Group Visitors
