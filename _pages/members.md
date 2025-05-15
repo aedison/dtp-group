@@ -33,7 +33,7 @@ author_profile: false
 
 | Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| Suna Zekioglu | Ph.D student  Awarded 2024        | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
+| Suna Zekioglu | Ph.D student,  Awarded 2024        | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student, Awarded 2024            | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
 | James Mangan         | Postdoc, NU Member '21-'24   | [Asst. Prof Colorado Mesa U.](https://www.coloradomesa.edu/directory/physical-environmental-sciences/james-mangan.html) |
 | Bogdan Stoica        | Postdoc, NU Member '20-'23  | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
