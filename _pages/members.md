@@ -19,11 +19,8 @@ author_profile: false
 | Name                    | Home Institution      | More Information                                          |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
 | John Joseph M. Carrasco | [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) | [http://prettyquestions.com](http://prettyquestions.com) |
-| James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
-| Alex Edison          | Postdoc               | [aedison.gitlab.io](https://aedison.gitlab.io) |
-| Yanfeng Hang         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1747508) |
-| Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
-| Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
+| Alex Edison          | Research Associate               | [aedison.gitlab.io](https://aedison.gitlab.io) |
+| Yanfeng Hang         | Postdoctoral Visitor            | [inSPIRE](https://inspirehep.net/authors/1747508) |
 | Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
 | Kezhu Guo | Affiliate Ph.D student, as [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
 | Cong Shen | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/1945377?ui-citation-summary=true)|
@@ -36,17 +33,24 @@ author_profile: false
 
 | Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
+| Suna Zekioglu | Ph.D student  Awarded 2024        | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
+| Nic Pavao | Ph.D student, Awarded 2024            | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
+| James Mangan         | Postdoc, NU Member '21-'24   | [Asst. Prof](https://www.coloradomesa.edu/directory/physical-environmental-sciences/james-mangan.html) |
 | Bogdan Stoica        | Postdoc, NU Member '20-'23  | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
-| Matthew Lewandowski | Postdoc, NU Member '19-'22               | [Postdoc ETH-Zurich](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
-| Ingrid Vazquez-Holm | Ph.D student, IPhT '19-'21           |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
-| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
+| Matthew Lewandowski | Postdoc, NU Member '19-'22               | [Scientific Staff CERN](https://theory.cern/roster/lewandowski-matthew) |
+| Ingrid Vazquez-Holm | Ph.D student,  Awarded 2021         |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
+| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Assoc. Prof](https://bimsa.net/people/rodina/) |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
 ## Recent/Upcoming NU-Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Shruti Paranjape | UC Davis | 14 - 20 April 20204 | [inSPIRE](https://inspirehep.net/authors/1487675?ui-citation-summary=true) |
+| Mikhail Ivanov | MIT | 15 - 18 May 2025 | [MIT](https://physics.mit.edu/faculty/mikhail-ivanov/) |
+| Henrik Johansson | Uppsala \& Nordita |  1 - 7 Feb 2025 | [Uppsala](https://www.uu.se/en/contact-and-organisation/staff?query=N14-733) |  
+| Carolina Figueiredo | Princeton | 1 - 3 Dec 2024 | [inSPIRE](https://inspirehep.net/authors/2738054?ui-citation-summary=true) |
+| Aiden Herderschee | IAS | 20 -26 Oct 2024 | [IAS](https://www.ias.edu/scholars/aidan-herderschee) |
+| Shruti Paranjape | UC Davis | 14 - 20 April 2024 | [inSPIRE](https://inspirehep.net/authors/1487675?ui-citation-summary=true) |
 | Raju Venugopalan | BNL and Stony Brook U. | 29 March 2024 | [BNL](https://www.bnl.gov/staff/Rvenugopalan) |
 | Austin Joyce | University of Chicago | 10 Nov 2023 | [inSPIRE](https://inspirehep.net/authors/1078196?ui-citation-summary=true) |
 | Hayden Lee | University of Chicago | 3 Nov 2023 | [inSPIRE](https://inspirehep.net/authors/1351398?ui-citation-summary=true) |
