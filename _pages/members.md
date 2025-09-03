@@ -19,7 +19,7 @@ author_profile: false
 | Name                    | Home Institution      | More Information                                          |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
 | John Joseph M. Carrasco | [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) | [http://prettyquestions.com](http://prettyquestions.com) |
-| Alex Edison          | Research Associate               | [aedison.gitlab.io](https://aedison.gitlab.io) |
+| Alex Edison          | Research Assistant Prof.               | [aedison.gitlab.io](https://aedison.gitlab.io) |
 | Yanfeng Hang         | Postdoctoral Visitor            | [inSPIRE](https://inspirehep.net/authors/1747508) |
 | Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
 | Kezhu Guo | Affiliate Ph.D student, as [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
