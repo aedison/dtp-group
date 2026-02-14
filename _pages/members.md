@@ -29,8 +29,8 @@ author_profile: false
 
 | Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| Theodore Wecker | MS. student, Awarded 2025 | [iNSPIRE][https://inspirehep.net/authors/2063983?ui-citation-summary=true] |
-| Eliseu A.~K.~Filho | Undergraduate student, '25 | [PhD, U Chicago][https://astrophysics.uchicago.edu/people/profile/eliseu-kloster-filho/]|
+| Theodore Wecker | MS. student, Awarded 2025 | [iNSPIRE](https://inspirehep.net/authors/2063983?ui-citation-summary=true) |
+| Eliseu A.~K.~Filho | Undergraduate student, '25 | [PhD, U Chicago](https://astrophysics.uchicago.edu/people/profile/eliseu-kloster-filho/)|
 | Aslan Seifi | Ph.D student, Awarded 2025       | [iNSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
 | Suna Zekioglu | Ph.D student,  Awarded 2024        | [iNSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) ||
 | Nic Pavao | Ph.D student, Awarded 2024            | [iNSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [https://nicpavao.com/](https://nicpavao.com/) |
@@ -47,7 +47,7 @@ author_profile: false
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Shu-Heng Shao | MIT | 7-10 May 2026|  [MIT](https://physics.mit.edu/faculty/shu-heng-shao/)|
-| Dan Green | UCSD  | 30 April - 2 May 2026|  [UCSD][(https://physics.mit.edu/faculty/shu-heng-shao/)](https://drgreen.physics.ucsd.edu)|
+| Dan Green | UCSD  | 30 April - 2 May 2026|  [UCSD](https://physics.mit.edu/faculty/shu-heng-shao/)](https://drgreen.physics.ucsd.edu)|
 | Justin Berman | Univrsity of Michigan |  15 - 17 Feb 2026 | | [iNSPIRE](https://inspirehep.net/authors/2715220?ui-citation-summary=true) |
 | Giulia Isabella | UCLA | 8 - 12 Feb 2026 | [iNSPIRE](https://inspirehep.net/authors/1784014?ui-citation-summary=true) |
 | Radu Roiban | PSU | 28 - 31 May 2025 | [PennState](https://science.psu.edu/physics/people/rsr10)  |
